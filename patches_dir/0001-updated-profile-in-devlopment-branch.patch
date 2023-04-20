@@ -1,0 +1,30 @@
+From da7d2b504e0a3af8ad7ead2be29af9bab11c96f2 Mon Sep 17 00:00:00 2001
+From: Jyothi Ram <rjyothi172@gmail.com>
+Date: Thu, 20 Apr 2023 06:21:38 +0000
+Subject: [PATCH] updated profile in devlopment branch
+
+---
+ profile.html | 13 +++++++++++++
+ 1 file changed, 13 insertions(+)
+
+diff --git a/profile.html b/profile.html
+index e69de29..b75aa94 100644
+--- a/profile.html
++++ b/profile.html
+@@ -0,0 +1,13 @@
++<html>
++
++<head>
++
++</head>
++
++<body>
++
++Git Patch Operation
++
++</body>
++
++</html>
+-- 
+2.25.1
+
